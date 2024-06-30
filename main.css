@@ -1,0 +1,12 @@
+@font-face{
+    font-family:san-fran;
+    src: url(../fonts/SF-Pro-Display-Medium.otf)
+}
+html{
+    -webkit-Scroll-behavior:smooth;
+    Scroll-behavior:smooth;
+    font-family:san-fran;
+}
+body{
+    font-family:san-fran;
+}
